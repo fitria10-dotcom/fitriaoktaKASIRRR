@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro - Sistem Kasir & Manajemen Akses Pengguna",
+  "description": "Sistem Kasir (POS) modern dengan manajemen inventaris multi-cabang, cetak struk, pembayaran QRIS dinamis, dan sistem penambahan & pengelolaan akun pengguna baru yang fleksibel untuk admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
